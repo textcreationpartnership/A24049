@@ -1,0 +1,653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal almanack containing a succinct account of the most memorable actions of K. William III : with the year and day of the month when they happened / composed by P. Vincent Coronelli, cosmographer to the most serene republick of Venice, and presented to his Majesty by himself.</title>
+            <author>Coronelli, Vincenzo, 1650-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24049</idno>
+            <idno type="STC">Wing A1469B</idno>
+            <idno type="STC">ESTC R225071</idno>
+            <idno type="EEBO-CITATION">25858140</idno>
+            <idno type="OCLC">ocm 25858140</idno>
+            <idno type="VID">109747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1734:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal almanack containing a succinct account of the most memorable actions of K. William III : with the year and day of the month when they happened / composed by P. Vincent Coronelli, cosmographer to the most serene republick of Venice, and presented to his Majesty by himself.</title>
+                  <author>Coronelli, Vincenzo, 1650-1718.</author>
+               </titleStmt>
+               <extent>[4], 5-32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock ... ,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect:  stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109747:1" rendition="simple:additions"/>
+            <p>THE <hi>Royal Almanack:</hi> Containing a Succinct ACCOUNT OF THE Moſt Memorable Actions OF K. WILLIAM III.</p>
+            <p>With the Year and Day of the Month when they happened.</p>
+            <p>Compoſed by P. <hi>VINCENT CORONELLI,</hi> Coſmographer to the moſt Serene Republick of <hi>Venice,</hi> and preſented to his Majeſty by himſelf.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Stationer's Hall,</hi> 1696.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:109747:2"/>
+            <pb facs="tcp:109747:2"/>
+            <head>TO THE READER.</head>
+            <p>HAving met with this little Book, I thought it not unfit to publiſh it in our Tongue, were it for no other Rea<g ref="char:EOLhyphen"/>ſon than that no Body may be ignorant how great an Eſteem our Glorious Monarch's matchleſs Virtues have gained him in the remoteſt Parts of <hi>Europe.</hi> The Reader is deſired to take notice, That being compoſed in <hi>Italian,</hi> the New, <hi>Ro<g ref="char:EOLhyphen"/>man,</hi> Style is made uſe of: And if there be any Events miſda<g ref="char:EOLhyphen"/>ted, it is expected ſo ſmall an Error may, in a Stranger, be pardonable; eſpecially in one whoſe other celebrated Works have made large amends to the letter'd part of the World. In ſhort, if the Reader is deceived in his Expectation (which were hard) we hope the Exhorbitancy of the Price will not much impair his Pocket, nor that of the Volume be too great an Exerciſe for his Patience.</p>
+         </div>
+      </front>
+      <body>
+         <div type="almanac">
+            <pb facs="tcp:109747:3"/>
+            <pb n="5" facs="tcp:109747:3"/>
+            <head>THE Royal Almanack, &amp;c.</head>
+            <div type="month">
+               <head>Ianuary.</head>
+               <p n="1">1. 1679. A Treaty being on Foot between the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> and <hi>Dutch</hi> Miniſters, to the effect that <hi>Maeſtricht</hi> might be given up to his Catholick Majeſty, the Prince of <hi>Orange</hi> oppoſed it, being not fully ſatiſ<g ref="char:EOLhyphen"/>fied as to his own Pretenſions.</p>
+               <p n="2">2, 1689. The late King <hi>James</hi> being a ſecond Time im<g ref="char:EOLhyphen"/>barked for <hi>France,</hi> the Adminiſtration of the Kingdom of <hi>En<g ref="char:EOLhyphen"/>gland</hi> was placed in the Prince of <hi>Orange,</hi> till ſuch time as a Convention might be aſſembled.</p>
+               <p n="3">3, 1661. The Provinces of <hi>Overiſſel</hi> and <hi>Zeeland,</hi> being reſolved to chuſe him their Captain General, their Penſioners gave him notice thereof; but having that very Day heard of the Princeſs, his Mother's, Sickneſs, himſelf fell ſick there<g ref="char:EOLhyphen"/>upon.</p>
+               <pb n="6" facs="tcp:109747:4"/>
+               <p n="4">4, 1689. His Majeſty began his Government by an Act of Grace, in reſtoring the Earls of <hi>Feverſham</hi> and <hi>Sunderland</hi> to their Liberty.</p>
+               <p n="5">5, 1671. He returned from <hi>Oxford</hi> and <hi>Windſor,</hi> where he had been royally entertained by his Majeſty of <hi>Great Britain,</hi> having been a Mediator for the States General, in which Negotiation he gave convincing Proofs of his admira<g ref="char:EOLhyphen"/>ble Parts, and his Kindneſs for the ſaid States.</p>
+               <p n="6">6.</p>
+               <p n="7">7, 1689. He is preſent at Council, and ſends Circular Letters to call a Convention.</p>
+               <p n="8">8.</p>
+               <p n="9">9, 1677. He receives 200000 Ducats from his Princeſs in part of the Satisfaction he demanded.</p>
+               <p n="10">10, 1691. The King makes himſelf Maſter of <hi>Lansbrough</hi> in <hi>Ireland.</hi>
+               </p>
+               <p n="11">11.</p>
+               <p n="12">12, 1672. He poſitively refuſes the Dignity of Captain General, unleſs it be conferred upon him for Life.</p>
+               <p n="13 14">13. 14.</p>
+               <p n="15">15, 1691. His Majeſty prorogues the Parliament of <hi>England</hi>
+               </p>
+               <p n="16">16, 1692. His Majeſty leaves <hi>London,</hi> with a Deſign to go over into <hi>Holland,</hi> to confer with ſeveral Confederate Prin<g ref="char:EOLhyphen"/>ces; but is put back by contrary Winds.</p>
+               <p n="17">17, 1672. The States General name Min Heers <hi>John de Wit, de Reverning</hi> and <hi>Fagel</hi> to ingroſs the neceſſary Inſtructi<g ref="char:EOLhyphen"/>ons which the Captain General was to act by.</p>
+               <p n="18">18, 1651. A general Aſſembly of the States is held, to diſpoſe of the Offices enjoy'd by the late Prince of <hi>Orange.</hi>
+               </p>
+               <p n="19">19, 1672. The Prince of <hi>Orange</hi> proclaim'd Captain Gene<g ref="char:EOLhyphen"/>ral of the Provinces of <hi>Holland</hi> and <hi>Weſt Friezland.</hi>
+               </p>
+               <p n="20">20. 1675. He goes from the <hi>Hague</hi> to viſit the Fortreſſes, and give his Orders to the Magiſtrates of that Country.</p>
+               <p n="21">21, 1674. He went into Mourning for the Prince <hi>Palatine, de Simmeren,</hi> his Unkle.</p>
+               <p n="22">22, 1674. The States of <hi>Holland</hi> allow his Royal Highneſs a more numerous Train, and increaſe the Number of his Guards.</p>
+               <p n="23">23, 1673. As a Token of his Generoſity, and of his Ten<g ref="char:EOLhyphen"/>derneſs
+<pb n="7" facs="tcp:109747:4"/>for the States, he quits his Claim to a Tenth Part of all the Prizes made at Sea.</p>
+               <p n="24">24.</p>
+               <p n="25">25, 1679. He returns to the <hi>Hague,</hi> after having viſited the Fortifications of <hi>Narden</hi> and other Places, in the Provin<g ref="char:EOLhyphen"/>ces of <hi>Holland</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>trecht.</hi>
+               </p>
+               <p n="26">26, 1692. The King imbarks a ſecond Time for <hi>Holland,</hi> attended by the Dukes of <hi>Norfolk</hi> and <hi>Ormond,</hi> the Earls of <hi>Portland, Devonſhire</hi> and <hi>Dorſet,</hi> the Biſhop of <hi>London,</hi> and ſeveral other <hi>Engliſh</hi> Noblemen.</p>
+               <p n="27">27.</p>
+               <p n="28">28, 1675. He generouſly refuſes the Propoſals made him by the Nobility and Magiſtracy of the Dutchy of <hi>Geldreland</hi> and County of <hi>Zutphen;</hi> who proffer'd to elect him for their Soveraign, with the Titles of Duke of <hi>Gueldreland</hi> and Earl of <hi>Zurphen.</hi>
+               </p>
+               <p n="29">29, 1978. Through his Mediation a Treaty for an Offen<g ref="char:EOLhyphen"/>ſive and Defenſive League between <hi>England</hi> and <hi>Holland</hi> is concluded.</p>
+               <p n="30">30, 1691. His Majeſty arrives in ſight of the <hi>Dutch</hi> Coaſts with his Convoy, which conſiſted of 12 Men of War 7 Yachts and ſome other Veſſels; and the Landing being difficult, gets into a Boat, and is ſoon out of Sight of his Fleet; is, benighted, and in that manner expoſed to the Injuries of the Air, and ready to be caſt away, to the unexpreſſible Sorrow of thoſe who attended him, whom himſelf comforted, and eſpecially the Pilot; to whom he might ſay, That he carried Ceſar, but with that Difference, That Ceſar was by his Fear forced back, but his Majeſty, through great Labours, and no ſmall Hazards lands at the <hi>Goree.</hi>
+               </p>
+               <p n="31">31, 1691. He arrives unexpected at the <hi>Hague:</hi> Which was the firſt time ſince his happy Acceſſion to the Crown of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> that he came there to honour the States with his Royal Preſence; and tho' he came as <hi>incognito,</hi> yet he is received with the Noiſe of all the Cannon, ringing of Bells, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <pb n="8" facs="tcp:109747:5"/>
+               <head>February.</head>
+               <p n="1">1, 1689. Both Houſes of the Convention aſſembled at <hi>Weſtminſter,</hi> deſire the Prince of <hi>Orange</hi> to protect them, and to take upon him the Adminiſtration of the Government.</p>
+               <p n="2">2. 1674. The States general declare the Prince of <hi>Orange</hi> Hereditary Governour of <hi>Holland,</hi> and deſire his Highneſs to marry the Duke of <hi>York</hi>'s Daughter.</p>
+               <p n="3">3, 1674. His Royal Highneſs preſented the King of <hi>England</hi> with a Lyon and a Tyger, which had been lately ſent him out of the <hi>Indies.</hi>
+               </p>
+               <p n="4">4, 1677. He does, at the Requeſt of the States General, go to <hi>Groninguen,</hi> attended by ſome of the Deputies, to com<g ref="char:EOLhyphen"/>poſe ſome Differences which had happen'd in that City.</p>
+               <p n="5">5, 1691. His Majeſty, to comply with the People's Deſires of expreſſing the Joy they had at his ſafe arrival, is oblig'd to make his Publick Entry into the <hi>Hague,</hi> through a great number of Triumphal Arches, while a general Satisfaction was expreſſed by Acclamations, Feaſts, Bonfires, <hi>&amp;c.</hi>
+               </p>
+               <p n="6">6, 1691. His Majeſty took the Management of Affairs with an extraordinary Application, bore his Part in the Joy the Confederates had conceived at their good Succeſſes, and gave Audience to ſeveral Princes.</p>
+               <p n="7">7, 1691. He aſſiſts in Perſon at the holding of the States of <hi>Holland</hi> and <hi>Weſt Frieſland;</hi> and then at that of the States General of the <hi>
+                     <g ref="char:V">Ʋ</g>nited Provinces,</hi> and is afterwards preſent at the Council of State, being received in thoſe Aſſemblies with all poſſible Tokens of Eſteem, Veneration and Reſpect.</p>
+               <p n="8">8, 1691. He reaſſumes at the <hi>Hague</hi> the Function of Go<g ref="char:EOLhyphen"/>vernour and Captain General, in the ſame manner as before he was King.</p>
+               <p n="9">9, 1674. The States of <hi>Holland</hi> do unanimouſly and ſo<g ref="char:EOLhyphen"/>lemnly confer on the Prince of <hi>Orange</hi> and his Heirs Male for ever, the Places of Captain General and Admiral, and the Government of that Province; to the general Satisfaction of all the Nobility and Commonalty.</p>
+               <p n="10">10, 1677. <hi>Charles</hi> II. King of <hi>England,</hi> gives his Conſent
+<pb n="9" facs="tcp:109747:5"/>to the Match agreed upon between the Princeſs <hi>Mary,</hi> Daugh<g ref="char:EOLhyphen"/>ter to the Duke of <hi>York,</hi> and the Prince of <hi>Orange,</hi> his Ne<g ref="char:EOLhyphen"/>phew.</p>
+               <p n="11">11, 1661. His Majeſty of <hi>Great Britain</hi> having made ſe<g ref="char:EOLhyphen"/>veral Inſtances with the States General, That, according to her R. H. his late Siſter's Will, they would ſend him cer<g ref="char:EOLhyphen"/>tain Papers, which he was deſirous to keep during the young Prince's Minority; which the States having refuſed, alledg<g ref="char:EOLhyphen"/>ing they were his Guardians; which they took as a great Ho<g ref="char:EOLhyphen"/>nour. It occaſion'd a Rupture between the two States.</p>
+               <p n="12">12, 1651. The States of the Provinces of <hi>Holland</hi> and <hi>Zea<g ref="char:EOLhyphen"/>land,</hi> and the Cities of <hi>Amſterdam</hi> and <hi>Delft</hi> were deſired to be Godfathers to the young Prince.</p>
+               <p n="13">13, 1689. While the Convention were agreeing to inveſt the Prince of Orange with the Regal Authority, his R. H. being already acquainted with their Deſign, ſends a Squa<g ref="char:EOLhyphen"/>dron of 12 Men of War to fetch over his princely Conſort.</p>
+               <p n="14">14. 1689. The Houſe of Lords aſſerts the Succeſſion of the Princeſs of <hi>Orange</hi> to the Crown of <hi>England.</hi>
+               </p>
+               <p n="15">15, 1675. The Aſſembly of <hi>Arnheim</hi> ſeeing the Prince of <hi>Orange</hi> would not be their Sovereign, did, in imitation of the other Provinces, chuſe him for their Governour.</p>
+               <p n="16">16, 1691. The Electors of <hi>Bavaria</hi> and <hi>Brandenburg,</hi> the Marqueſs of <hi>Caſtanaga,</hi> Governour of the <hi>Low Countries,</hi> the Landgrave of <hi>Heſſe Caſſel,</hi> and ſeveral other Perſons of an eminent Quality, came to the <hi>Hague</hi> to negotiate ſome Buſineſs concerning the League; ſo that there was there, at that Time an Appearance of 50 Princes, Counts, Gene<g ref="char:EOLhyphen"/>ral Officers, and Perſons of the firſt Rank, 14 <hi>Engliſh</hi> Lords, above 30 Embaſſadors, and a great Number of Princeſſes and Ladies.</p>
+               <p n="17">17, 1676. The Elector of <hi>Brandenbourg</hi> propoſes a March between the Prince of <hi>Orange</hi> and the Princeſs of <hi>Radzevill,</hi> his Couzin, a Lady of a very conſiderable Fortune.</p>
+               <p n="19">19, 1679. The Prince's Mediation procures a firm and laſting Peace between the <hi>Engliſh</hi> and <hi>Dutch.</hi>
+               </p>
+               <p n="20">20, 1674. The States of <hi>Zeeland</hi> having declared; as thoſe of <hi>Holland</hi> had already done, That the Places of Cap<g ref="char:EOLhyphen"/>tain General and Admiral, did hereditarily belong to his
+<pb n="10" facs="tcp:109747:6"/>Family; add thereto the Quality of <hi>Noble Hereditary</hi> of that Province; which the States of <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> alſo did in <hi>April</hi> the Year following.</p>
+               <p n="20">20, 1689. The Princeſs of <hi>Orange</hi> goes from the <hi>Hague,</hi> and embarks at the <hi>Brill,</hi> the People by redoubled Acclama<g ref="char:EOLhyphen"/>tion expreſſing their Joy at the occaſion of her Journey; and ſhe is attended by 5 of the Deputies of the Admiralty.</p>
+               <p n="20">20, 1677. The Prince, notwithſtanding the Rigour of the Seaſon, and the almoſt invincible Oppoſition of his Enemies; endeavours to relieve <hi>Valencies,</hi> beſieg'd by the <hi>French.</hi>
+               </p>
+               <p n="21">21, 1671. The Dutcheſs of <hi>York,</hi> who was lately brought to Bed of a Daughter, baptizes her that Day, and the Prince of <hi>Orange</hi> ſtands Godfather.</p>
+               <p n="22">22, 1689. The Princeſs of <hi>Orange,</hi> who, at her Landing, had been waited on by the Princeſs of <hi>Denmark,</hi> her Siſter, and ſeveral <hi>Engliſh</hi> Noblemen, comes to <hi>London,</hi> where ſhe is received with a Diſcharge of the Cannon, ringing of Bells, Huzza's, Bonfires, and all poſſible Expreſſions of Joy.</p>
+               <p n="23">23, 1689. Both Houſes of Convention do joyntly deſire the Prince and Princeſs of <hi>Orange</hi> to accept of the Vacant Throne of <hi>England;</hi> which they did: And that Day his Majeſty wrote to the States to acquaint them therewith, to thank them for the Forces they had lent him, and tell them he was now in a condition to expreſs his Gratitude for all former Kindneſſes.</p>
+               <p n="24">24, 1671. The Prince goes from <hi>London</hi> to <hi>Rocheſter,</hi> and thence to <hi>Guernſey,</hi> whence one of his Majeſty's Yachts tranſ<g ref="char:EOLhyphen"/>ports him to <hi>Holland,</hi> being (according to his Majeſty's Or<g ref="char:EOLhyphen"/>der) attended, during that Journey, by the Earl of <hi>Oſſery,</hi> and Monſieur <hi>Silvius.</hi>
+               </p>
+               <p n="24">24, 1689. The Prince and Princeſs of <hi>Orange</hi> are pro<g ref="char:EOLhyphen"/>claim'd King and Queen of <hi>England,</hi> &amp;c. to the inexpreſſi<g ref="char:EOLhyphen"/>ble Joy of all their Subjects.</p>
+               <p n="24">24, 1672. The Prince of <hi>Orange</hi> accepts the Dignity of Captain General of the States.</p>
+               <p n="25">25, 1672. He is ſworn as ſuch in that Aſſembly.</p>
+               <p n="25">25, 1696. A moſt horrid Conſpiracy to Aſſaſſinate his Ma<g ref="char:EOLhyphen"/>jeſty's ſacred Perſon is diſcovered.</p>
+               <p n="25">
+                  <pb n="11" facs="tcp:109747:6"/> 25, 1689. The Convention being conſtituted a Parliament, his Majeſty recommends to their Care the Union between the <hi>Engliſh</hi> and <hi>Dutch</hi> Nations; and that Day the Parlia<g ref="char:EOLhyphen"/>ment promiſed him to repay the Charges which the States General were at on the account of the late Expedition.</p>
+               <p n="26">26, 1689. The Parliament grant his Majeſty 600000 l. to enable him to repay to the States, the Sums which they had laid out for the fitting out of the Fleet that came with him from <hi>Holland,</hi> and 600000 l. beſides, to begin the War in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p n="27">27, 1674, The Prince having conſiderably ſtrengthened his Army, he forces the <hi>French</hi> to abandon <hi>Nimeguen, Zut<g ref="char:EOLhyphen"/>phen, Arnhem, Till</hi> and Fort <hi>Skin.</hi>
+               </p>
+               <p n="28">28, 1672. The two Houſes of Convention are changed into a Parliament, and that Day his Majeſty came firſt to the Houſe of Lords in his Robes, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>March.</head>
+               <p n="1">1, 1692. The King arrives, <hi>Incognito,</hi> in an ordinary Coach, but is ſoon known, and receiv'd with loud Huzza's, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2, 1692. He makes a kind Reception to the D. of <hi>Richmond,</hi> to whom he reſtores all his Eſtate, which had been confiſcated.</p>
+               <p n="3">3, 1689. He ſends back the Forces which the States Gene<g ref="char:EOLhyphen"/>ral had lent him, to attend him in his Expedition, with rich Preſents, in conſideration of the Charges they had been at, on his account.</p>
+               <p n="4">4, 1689. He is no ſooner King of <hi>England,</hi> but he acts as ſuch, and is complemented by the Nobility, the Officers of the Crown, and Foreign Miniſters, who all congratulate his happy acceſſion to to the Crown.</p>
+               <p n="5">5.</p>
+               <p n="6">6, 1696. Both Houſes of Parliament entred into an Aſſo<g ref="char:EOLhyphen"/>ciation, to ſtand by and aſſiſt each other in the Defence of his Majeſty and of his Kingdom, <hi>&amp;c.</hi>
+               </p>
+               <p n="7">7, 1679. He makes an Offenſive and Defenſive League between the Elector of <hi>Brandenbourg</hi> and the States General.</p>
+               <p n="8">8, 1689. He ſends Admiral <hi>Herbert</hi> with 30 Men of War,
+<pb n="12" facs="tcp:109747:7"/>to cruiſe on the <hi>Iriſh</hi> Coaſts, to hinder the <hi>French</hi> from landing.</p>
+               <p n="9">9, 1673, The <hi>French</hi> abandon <hi>Wezel,</hi> and ſome other Pla<g ref="char:EOLhyphen"/>ces of the Dutchy of <hi>Cleves,</hi> through the Fear they ſtood in of the P. of <hi>Orange</hi>'s numerous Army.</p>
+               <p n="10">10, 1690. Above 200 Gentlemen come to <hi>London</hi> and offer to ſerve as Volunteers in his Majeſty's Army in <hi>Ireland.</hi>
+               </p>
+               <p n="11">11, 1654. A Medal is publiſh'd in <hi>Holland;</hi> on the Reverſe whereof is ſeen the young P. of <hi>Orange,</hi> in a <hi>Roman</hi> Dreſs, crown'd with Lawrel, and with a Staff in his Hand, ſtanding before the Statue of <hi>Pallas,</hi> who earneſtly looks on the Prince, ſhewing him a Sun, in the middle of which is ſeen the <hi>He<g ref="char:EOLhyphen"/>brew</hi> Word <hi>Jehovah,</hi> and near the Prince this Motto, <hi>Fear God.</hi> The Temple of <hi>Pallas</hi> is to be ſeen in Perſpective.</p>
+               <p n="12">12, 1689. He gives Orders for the ſitting out a Fleet of 60 Men of War, and raiſing of ſeveral new Regi<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="13">13, 1656. He begins his Studies at <hi>Leyden,</hi> where the ac<g ref="char:EOLhyphen"/>cuteneſs of his Wit raiſes him above the reſt of the Scho<g ref="char:EOLhyphen"/>lars as much as his eminent Quality.</p>
+               <p n="14">14.</p>
+               <p n="15">15, 1657. The very Picture of the Prince of <hi>Orange</hi> ſhew<g ref="char:EOLhyphen"/>ed to <hi>Cromwel</hi> ſtrikes him with Fear.</p>
+               <p n="17">17.</p>
+               <p n="18">18, 1660. K. <hi>Charles</hi> II. expreſſes to the Deputies of the States General, his great Tenderneſs for the Prince of <hi>Orange</hi> and the Royal Princeſs his Siſter.</p>
+               <p n="18">18, 1672. The States General allow him 4000 Men, which go by the Name of Troops of his Highneſſes Houſhold.</p>
+               <p n="19">19, 1660. K. <hi>Charles</hi> II. his Unkle, having brought him to the <hi>Hague,</hi> carries him to the Aſſembly of the States General, to whom he earneſtly recommends the young Prince's Intereſt.</p>
+               <p n="20">20, 1673. He goes into <hi>Zeeland,</hi> to negotiate an Offenſive and Defenſive League with <hi>Spain,</hi> which was to laſt till the King of <hi>France</hi> had reſtor'd to the <hi>Spaniards</hi> and <hi>Dutch</hi> the Places he had taken from them.</p>
+               <p n="21">21.</p>
+               <p n="22">22, 1691. The King having taken his Leave of the Coun<g ref="char:EOLhyphen"/>cil of State and of the <hi>Dutch</hi> Commonwealth, and Royally Entertained all the Princes, Lords and Ladies, who had
+<pb n="13" facs="tcp:109747:7"/>waited on him at the <hi>Hague,</hi> goes to <hi>Breda</hi> at the Head of his Army, with a Deſign to relieve <hi>Mons.</hi>
+               </p>
+               <p n="23">23, 1689. The Parliament preſent his Majeſty with 420000 l.</p>
+               <p n="24">24.</p>
+               <p n="25">25, 1690. The Parliament of <hi>Scotland</hi> grant him a Subſidy of 200000 l.</p>
+               <p n="26">26, 1689. The Convention of <hi>Scotland</hi> return their Thanks to the King for the Protection he had allowed them.</p>
+               <p n="27">27, 1673. He gives Audience to the <hi>Imperial</hi> and <hi>Spaniſh</hi> Embaſſadors, and ſends M. <hi>d'Odyck</hi> as his Deputy to the Con<g ref="char:EOLhyphen"/>greſs at <hi>Colen,</hi> and oppoſes the Suſpenſion of Arms that was ſet on Foot, refuſing his Conſent thereto, till the Return of a Courier he had ſent to the Elector of <hi>Brandenbourg.</hi>
+               </p>
+               <p n="28">28, 1651. The young Prince's Guardianſhip is courted by ſome Princes, ſeveral Provinces, and the States General.</p>
+               <p n="29">29, 1680. He goes from the <hi>Hague</hi> to viſit the Cities of <hi>Bol<g ref="char:EOLhyphen"/>due, Berg op Zoom,</hi> &amp;c. on the Frontiers of <hi>Brabant.</hi>
+               </p>
+               <p n="30">30, 1676. He recovers of a little Indiſpoſition he had had.</p>
+               <p n="31">31, 1660. He goes to <hi>Breda</hi> to congratulate K. <hi>Charles</hi> II. on his Reſtauration to the Throne of <hi>England,</hi> &amp;c.</p>
+            </div>
+            <div type="month">
+               <head>April.</head>
+               <p n="1">1, 1675. A ſmall ebullition of his Blood, occaſions a Swel<g ref="char:EOLhyphen"/>ling in his Head, which is cured by Bleeding,</p>
+               <p n="2">2, 1673. The Small Pox, with which he is taken ſick, and whereof his Father dy'd, gives the People a general Fear, who in this occaſion ſhew their Kindneſs and extream Reſpect and Love, they bear him; and he is viſited by Foreign Miniſters.</p>
+               <p n="3">3, 1674. The States General preſent the P. of <hi>Orange</hi> with 2000000 Florins, in conſideration of the K. of <hi>England</hi>'s hav<g ref="char:EOLhyphen"/>ing quitted to his Royal Highneſs the Fiſhery of Herrings.</p>
+               <p n="4">4, 1674. He goes into <hi>Zealand,</hi> to appeaſe ſome Diſorders there; which being ſpeedily and happily ended, he returns, and in his Journey viſits <hi>Fleſſingue, Sluce, Ardembourg, Berg op Zoom, Breda</hi> and <hi>Bolduc.</hi>
+               </p>
+               <p n="5">5, 1674. The Province of <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> does, at his Requeſt, agree to ſpoil the Crown of <hi>Spain</hi> and its Subjects, to the value of 196985 Florins, by way of Repriſal.</p>
+               <p n="6">
+                  <pb n="14" facs="tcp:109747:8"/> 6.</p>
+               <p n="7">7.</p>
+               <p n="8">8, 1677. He marched to the Relief of <hi>S. Omer.</hi>
+               </p>
+               <p n="9">9, 1671. Being fallen dangerouſly ill in <hi>Louveſtein</hi> Caſtle, he fortunately recovers his Health, to the general Satisfaction.</p>
+               <p n="10">10, 1693. He permits 600 <hi>French</hi> Proteſtans Families, who were come into <hi>Switzerland,</hi> and had implor'd his Protection, to go and ſettle in <hi>Ireland.</hi>
+               </p>
+               <p n="11">11.</p>
+               <p n="12">12</p>
+               <p n="13">13, 1677. With an undaunted Courage he makes himſelf Maſter of a Paſſage on the <hi>Rhine,</hi> in ſpight of the <hi>French</hi> Army.</p>
+               <p n="14">14, 1675. The States of <hi>Holland</hi> ſeeing his Highneſs out of Danger, from a grievous Sickneſs he had had, ſend ſome of their Body to him, to deſire him to take Care of his Health, and to give them leave to return Publick Thanks to Almigh<g ref="char:EOLhyphen"/>ty God for his happy Recovery.</p>
+               <p n="15">15, 1675. The Lords of the Province of <hi>Gueldre</hi> ſeeing his R. H. would not accept of the Sovereignty they offer'd him, choſe him for their perpetual Governour; which Dignity was alſo conferr'd on his Heirs Male for ever, as an Acknowledg<g ref="char:EOLhyphen"/>ment of the great Obligations his Highneſs had laid upon 'em.</p>
+               <p n="16">16, 1666. The States General accept with Joy the Guardi<g ref="char:EOLhyphen"/>anſhip of the young Prince, and chuſe 6 Lords, whom they entruſt with his Education, to the general Satisfaction of the People, who elſe would have roſe up in Arms throughout the Provinces.</p>
+               <p n="17">17, 1675. Two Envoys, one from the K. of <hi>England</hi> and the other from the Duke of <hi>York,</hi> come to the <hi>Hague,</hi> to en<g ref="char:EOLhyphen"/>quire into the ſtate of his Health.</p>
+               <p n="18">18, 1691. His Majeſty preſents the Duke of <hi>Zel,</hi> with the moſt Noble Order of the Garter at the <hi>Hague.</hi>
+               </p>
+               <p n="19">19, 1676. The Parliament expreſs their Love to him, in that they grant K. <hi>Charles</hi> a Duty for 9 Years on Law Proceed<g ref="char:EOLhyphen"/>ings, the better to enable him to pay his R. H. the Sums he ow'd him.</p>
+               <p n="20">20, 1691. Having provided for the Safety of the City of <hi>Bruſſels,</hi> and ſome other Places, he goes for <hi>England.</hi>
+               </p>
+               <p n="21">21, 1689. Their Majeſties went to <hi>Weſtminſter-Abby,</hi> where they were Crowned by the Biſhop of <hi>London,</hi> with the uſual Solemnity.</p>
+               <p n="22">
+                  <pb n="15" facs="tcp:109747:8"/> 22, 1688. He goes to meet the Elector of <hi>Saxony,</hi> who came to ſee him at <hi>Loo,</hi> being attended by his own Regiment of Guards, his Regiment of Dragoons and a great number of Coaches.</p>
+               <p n="23">23, 1689. The Houſe of Commons humbly requeſt his Ma<g ref="char:EOLhyphen"/>jeſty, That he would declare War againſt the <hi>French</hi> King; and promiſe to ſtand by him, and to aſſiſt him in the carrying on the War, to the utmoſt of their Power.</p>
+               <p n="24">24, 1691. Having viſited the Fleet, where he was received with loud Acclamations, he returns to <hi>London,</hi> to provide for the Safety of his Subjects; and there he receives Advice of the great Victory the Earl of <hi>Athlone</hi> had obtained over the <hi>French</hi> in <hi>Ireland.</hi>
+               </p>
+               <p n="25">25, 1668. He goes from the <hi>Hague</hi> for the Camp at <hi>Adersburg.</hi>
+               </p>
+               <p n="26">26, 1689. The Convention of <hi>Scotland</hi> ſend the E. of <hi>Ar<g ref="char:EOLhyphen"/>gyle,</hi> Sir <hi>Thomas Mongomery</hi> and Sir <hi>John Dalrimple,</hi> to offer the Crown of <hi>Scotland</hi> to his Majeſty, and take the Oaths of Allegiance, <hi>&amp;c.</hi> as their Repreſentatives.</p>
+               <p n="27">27, 1690. The Houſe of Lords make a Bill, whereby they aſſert their Majeſty's Right to the Crown of <hi>England.</hi>
+               </p>
+               <p n="28">28, 1666. The States General allow the young Prince a Court.</p>
+               <p n="29">29, 1689. 600 Medals of Gold, worth 3 l. a piece, are diſtributed, each Member of the Houſe of Commons being preſented with one; they had the King and Queen's Effigies on one Side, and on the other a <hi>Phaeton,</hi> ſtruck with Thun<g ref="char:EOLhyphen"/>der by <hi>Jupiter,</hi> with this Inſcription, <hi>Ne totus abſumatur Orbis;</hi> leſt the whole World be conſumed.</p>
+               <p n="30">30, 1690. The Parliament veſt in his Majeſty all the Cu<g ref="char:EOLhyphen"/>ſtoms which had been granted to <hi>James</hi> I. and the Duties which King <hi>Charles</hi> and King <hi>James</hi> II. had enjoy'd, and moreover, allow him to diſpoſe of all the Subſidies as himſelf ſhould ſeem ſitting, for the ſpace of 4 Years.</p>
+            </div>
+            <div type="month">
+               <head>May.</head>
+               <p n="1">1, 1673. The States General give the Command of their Armies to Prince <hi>Maurice</hi> for <hi>Friezland,</hi> the Mareſchal <hi>de Wertz</hi> for <hi>Zeeland,</hi> and the Prince of <hi>Orange</hi> for the reſt of the <hi>Low-Countries.</hi>
+               </p>
+               <p n="2">
+                  <pb n="16" facs="tcp:109747:9"/> 2, 1673. He viſits all the Cities and Fortreſſes on the <hi>Dutch</hi> Frontiers.</p>
+               <p n="3">3, 1688. His Court go into Mourning for the Dutcheſs of <hi>Simmiren,</hi> Aunt to his Royal Highneſs.</p>
+               <p n="4">4, 1691. His Majeſty diſcharges ſeveral Perſons from Pla<g ref="char:EOLhyphen"/>ces of Truſt, which are beſtowed on Perſons well-affected to the Government.</p>
+               <p n="5">5, 1690. The Parliament places the Regency in the Queen during the King's Abſence.</p>
+               <p n="6">6, 1680. The States of <hi>Zeeland</hi> and <hi>Eaſt-India</hi> Company leave to his R. H. the Choice of a Director of that Company.</p>
+               <p n="7">7, 1674. M. <hi>de Rabenhaupt</hi> preſents his R. H. with 7 Stan<g ref="char:EOLhyphen"/>dards and ſeveral Colours, which he had taken from the Enemy</p>
+               <p n="8">8, 1672. The Prince relieves <hi>Muyden,</hi> one of the Avenues to <hi>Amſterdam,</hi> beſieged by the <hi>French.</hi>
+               </p>
+               <p n="9">9.</p>
+               <p n="10">10, 1672. <hi>John de Wit,</hi> Penſioner of <hi>Holland</hi> (and Son to one of thoſe Deputies whom his R. H.'s Father cauſed to be arreſted in <hi>Louveſtein-Caſtle</hi>) endeavours to oppoſe the Prince's being choſen Captain General, but all to no Purpoſe.</p>
+               <p n="11">11, 1691. He goes for <hi>Harwich;</hi> the next Day he embarks for <hi>Holland;</hi> and the 13th he arrives at <hi>Oranje Polder,</hi> whence he goes to the <hi>Hague,</hi> where every Body is ſurpriz'd at the ſpeed he had made.</p>
+               <p n="12">12, 1688. The Deputies of all the Cities in <hi>Holland</hi> agree<g ref="char:EOLhyphen"/>ed to his raiſing 90000 Seamen, for the fitting out of a Fleet, without any Body's ever being able to fathom his Deſign therein.</p>
+               <p n="13">13.</p>
+               <p n="14">14, 1688. As Captain General of the <hi>Dutch</hi> Armies, both by Sea and Land, he does on a ſuddain put out a numerous Fleet, attended with divers Tranſport Ships, and provided with all that was neceſſary for the Execution of his great and glorious Enterprize.</p>
+               <p n="15">15, 1688. The Fleet being ready, he declares to the States General what was his Deſign, and demonſtrates the Neceſſi<g ref="char:EOLhyphen"/>ty of his Landing in <hi>England.</hi>
+               </p>
+               <p n="16">16, 1689. His Majeſty declares War againd <hi>France.</hi>
+               </p>
+               <p n="17">17, 1679. The States General pay the Prince the 2000000 l.
+<pb n="17" facs="tcp:109747:9"/>they ſtood indebted for to the K. of <hi>England,</hi> ever ſince the Year 1674. which his Majeſty had made over to his R. H.</p>
+               <p n="18">18, 1691. The King goes to <hi>Loo,</hi> to divert himſelf with Hunting.</p>
+               <p n="19">19, 1662. In the Treaty of Allyance, which was then re<g ref="char:EOLhyphen"/>newed betwen the <hi>French</hi> and <hi>Dutch,</hi> this Article among others, was agreed upon, That the <hi>French</hi> King ſhould re<g ref="char:EOLhyphen"/>ſtore the Principality of <hi>Orange</hi> to his Majeſty.</p>
+               <p n="20">20.</p>
+               <p n="21">21, 1689. The Deputies ſent by the Convention of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> arrive at <hi>London,</hi> and diſcharge their Truſt, by preſenting the Crown of the Kingdom to his Majeſty, and taking the Oaths.</p>
+               <p n="22">22.</p>
+               <p n="23">23, 1690. His Majeſty's Army, conſiſting of 20000 Men, under the Command of the Duke of <hi>Schomberg,</hi> takes <hi>Char<g ref="char:EOLhyphen"/>lemont</hi> in <hi>Ireland.</hi>
+               </p>
+               <p n="24">24, 1690. Colonel <hi>Worſly,</hi> a general Officer, takes the Caſtle of <hi>Bellingorg,</hi> one of the ſtrongeſt Places in <hi>Ireland,</hi> from the late King's Party.</p>
+               <p n="25">25.</p>
+               <p n="26">26.</p>
+               <p n="27">27.</p>
+               <p n="28">28, 1658. A prophetick Picture of the King is yet kept in <hi>Holland,</hi> which was made that Year; wherein he was repreſented with a Triple Crown,</p>
+               <p n="29">29.</p>
+               <p n="30">30.</p>
+               <p n="31">31.</p>
+            </div>
+            <div type="month">
+               <head>Iune.</head>
+               <p n="1">1.</p>
+               <p n="2">2, 1691. The King arrives ſafe in his Army, which lay encamped under the Walls of <hi>Bruſſels.</hi>
+               </p>
+               <p n="3">3, 1682. He goes from the <hi>Hague</hi> to viſit the Places and Garriſons in <hi>Flanders.</hi>
+               </p>
+               <p n="4">4, 1670. The Commiſſioners of the Province of <hi>Holland</hi> unanimouſly agree to admit his Royal Highneſs into the Council of State, that he might have a greater Inſight into the Affairs of the Government.</p>
+               <p n="5">5, 1668. He returns from <hi>Berg op Zoom.</hi>
+               </p>
+               <p n="6">
+                  <pb n="18" facs="tcp:109747:10"/> 6.</p>
+               <p n="7">7.</p>
+               <p n="8">8.</p>
+               <p n="9">9.</p>
+               <p n="10">10.</p>
+               <p n="11">11.</p>
+               <p n="12">12.</p>
+               <p n="13">13.</p>
+               <p n="14">14, 1690. The King gives Orders for the diſtributing of 600 l. a Month to the poor <hi>French</hi> Proteſtant Refugees, and then goes for <hi>Ireland.</hi>
+               </p>
+               <p n="15">15, 1689. His Majeſty was pleaſed to ſend to the Conven<g ref="char:EOLhyphen"/>tion in <hi>Scotland,</hi> which was converted into a Parliament.</p>
+               <p n="16">16.</p>
+               <p n="17">17, 1672. The <hi>French</hi> beſieging <hi>Nimeguen,</hi> his Royal High<g ref="char:EOLhyphen"/>neſs uſes his Endeavours to make them raiſe the Siege, and to that purpoſe attacks them, and is dangerouſly wounded at the Head of his Army.</p>
+               <p n="18">18, 1690. His Majeſty arrives at <hi>Cheſter,</hi> where he was to embark for <hi>Ireland,</hi> and is received with all poſſible Expreſ<g ref="char:EOLhyphen"/>ſions of the Affection, Honour and Reſpect which ſubjects owe to ſo glorious a Prince.</p>
+               <p n="19">19, 1670. He goes from the <hi>Hague</hi> to the Siege of <hi>Brunſwick.</hi>
+               </p>
+               <p n="20">20, 1689. His Majeſty promiſes to provide for the Wives and Children of ſuch as ſhall be killed in defending his Rights and their own Liberty, to take care of the Maimed and Wounded, and to Recompence ſuch as ſhall ſignalize them<g ref="char:EOLhyphen"/>ſelves in his Service.</p>
+               <p n="21">21, 1690. His Majeſty embarks at <hi>Cheſter</hi> for <hi>Ireland.</hi>
+               </p>
+               <p n="22">22.</p>
+               <p n="23">23, 1690. The King lands at <hi>Carrickfergus,</hi> whence he goes by Land to <hi>Belfaſt,</hi> and finds his Army, conſiſting in 62 Squadrons of Horſe and 54 Batalions, which might make up in all about 40000 Men.</p>
+               <p n="24">24, 1689. The Duke of <hi>Gourdon</hi> ſurrenders himſelf and the Caſtle of <hi>Edinborough</hi> on Diſcretion.</p>
+               <p n="25">25.</p>
+               <p n="26">26, 1691. <hi>Ballimore</hi> in <hi>Ireland</hi> is taken by General <hi>Ginkle.</hi>
+               </p>
+               <p n="27">27, 1689. The Parliament of <hi>Scotland</hi> acknowledge the King and Queen as their lawful Sovereigns, and oblige them<g ref="char:EOLhyphen"/>ſelves to ſtand by them.</p>
+               <p n="28">28, 1690. the King marches towards the Enemy at the Head of his Army.</p>
+               <p n="29">29, 1672. The Inhabitants of <hi>Dordrecht</hi> oblige the Magi<g ref="char:EOLhyphen"/>ſtrate to declare the Prince of <hi>Orange</hi> Captain General of their Armies, as well by Land as by Sea.</p>
+               <p n="30">
+                  <pb n="19" facs="tcp:109747:10"/> 30, 1691. General <hi>Ginkle</hi> does, after ſome Reſiſtance make himſelf Maſter of the <hi>Engliſh</hi> City of <hi>Athlone,</hi> a ſtrong place on the River <hi>Shannon.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>Iuly.</head>
+               <p n="1">1, 1676. The Populacy force <hi>Cornelius de Witt</hi> to ſign the Inſtrument, whereby the Prince of <hi>Orange</hi> was declared Stateholder of <hi>Dordrecht.</hi>
+               </p>
+               <p n="2">2, 1672. He is declared Stateholder of <hi>Zeeland.</hi>
+               </p>
+               <p n="2">2, 1691. His Majeſty's Forces in <hi>Ireland</hi> lay Siege to the Iriſh City of <hi>Athlone,</hi> which was defended by a ſtrong Caſtle, and infinitely better fortified than the other.</p>
+               <p n="3">3, 1674. The States of <hi>Holland</hi> chuſe the Prince of <hi>Orange</hi> for their Stateholder.</p>
+               <p n="4">4, 1674. They give him Notice thereof.</p>
+               <p n="5">5, 1672. The States General having annulled the perpetu<g ref="char:EOLhyphen"/>al Edict which the Enemies to his R. H.'s Family had cauſed to be made; he took poſſeſſion of all the Offices and Dig<g ref="char:EOLhyphen"/>nities ſo worthily by his predeceſſors enjoy'd, and was con<g ref="char:EOLhyphen"/>firm'd in thoſe of Lieutenant General of that State, and of Captain General and Admiral of <hi>Holland, Zeeland</hi> and <hi>Friezland,</hi> to the general Satisfaction of all people.</p>
+               <p n="6">6, 1673. He prevents the Engliſh from making a Deſcent into <hi>Holland.</hi>
+               </p>
+               <p n="7">7, 1690. His Army Encamps near <hi>Dondalk.</hi>
+               </p>
+               <p n="8">8, 1676. The Prince beſieges <hi>Maſtricht.</hi>
+               </p>
+               <p n="8">8, 1690. The King goes in perſon to take a Survey of the Country beyond the River of <hi>Ardee,</hi> in <hi>Ireland,</hi> to find out a place for his Army to encamp in.</p>
+               <p n="9">9, 1690. He was ſlightly wounded by a Cannon Bullet, venturing too near to <hi>Drogheda,</hi> in <hi>Ireland.</hi>
+               </p>
+               <p n="10">10. 1691. General <hi>Ginkle</hi> ſtorms the City of <hi>Athlone,</hi> to the Coſt of above 1000 ſlain and 300 taken Priſoners on the Enemy's ſide.</p>
+               <p n="11">11, 1690. The King paſſes the <hi>Boyne,</hi> in ſight of the Enemy; whom he attacks in 3 ſeveral places, and over whom he ob<g ref="char:EOLhyphen"/>tains an entire Victory; having in that Action, ventur'd
+<pb n="20" facs="tcp:109747:11"/>his Life as much as the meaneſt Soldier. The Duke of <hi>Schomberg</hi> was killed in that Action, which was the only Loſs we ſuſtained. After this the City of <hi>Drogedah</hi> ſubmit<g ref="char:EOLhyphen"/>ted to his mercy.</p>
+               <p n="12">12, 1660. The Magiſtracy and City of <hi>Amſterdam</hi> re<g ref="char:EOLhyphen"/>ceived him and her R. H. his Mother, with all poſſible De<g ref="char:EOLhyphen"/>monſtrations of Joy and Reſpect, and made them a ſplendid Entertainment.</p>
+               <p n="13">13, 1672. The City of <hi>Ardemberg,</hi> which was then be<g ref="char:EOLhyphen"/>ſieged, having received the News of the Prince's being made Stateholder and Captain General, it put ſuch new Vigour into the Soldiers, that the ſame Day they attacked the <hi>French,</hi> drove them from a Poſt they had made themſelves Maſters of on the Breach, and took about 500 of them Priſoners.</p>
+               <p n="13">13, 1676. The Prince himſelf diſcovers a Mine at the Siege of <hi>Maſtricht,</hi> whereby he ſaves the Lives of ſeveral of his Soldiers.</p>
+               <p n="13">13, 1690. <hi>Dublin</hi> open'd her Gates to her victorious Monarch</p>
+               <p n="14">14, 1672. The States General relying on the Courage and Conduct of the Prince of <hi>Orange,</hi> their new Stateholder, recal the Embaſſadors they had ſent to beg a Peace of the <hi>French.</hi>
+               </p>
+               <p n="14">14. His R.H. tho' wounded in the Elbow by a Musket-ſhot, expoſes himſelf in all the Attacks at the Siege of <hi>Maſtricht.</hi>
+               </p>
+               <p n="15">15, 1676. The K. of <hi>England</hi> declares that his preſent War againſt the <hi>Dutch</hi> is only on the account of the Wrongs and Injuries the P. of <hi>Orange</hi> had received by them, and that if he makes a Peace with them it ſhall be but for his ſake.</p>
+               <p n="16">16, 1672. The People knowing that there were ſeveral Ma<g ref="char:EOLhyphen"/>giſtrates throughout the 7 Provinces in Penſioner <hi>de Wit</hi>'s In<g ref="char:EOLhyphen"/>tereſt, who was an Enemy to the P. of <hi>Orange,</hi> oblige the Regency of thoſe Cities to remove them from the Magiſtracy.</p>
+               <p n="16">16, 1680. The Prince chuſes to loſe all his Eſtates in <hi>France</hi> rather than to pay Homage to the <hi>French</hi> King for them.</p>
+               <p n="17">17, 1654. A great Diſpute ariſes between the <hi>
+                     <g ref="char:V">Ʋ</g>nited Pro<g ref="char:EOLhyphen"/>vinces</hi> on the young P. of <hi>Orange</hi>'s occaſion.</p>
+               <p n="17">17, 1672. His R. H. generouſly writes to ſeveral Cities of <hi>Holland,</hi> in favour of Penſioner <hi>de Witt.</hi>
+               </p>
+               <p n="18">18, 1672. <hi>De Witt,</hi> ſeeing every one ſided with the Prince of <hi>Orange,</hi> gives up his Place of Penſioner.</p>
+               <p n="19">
+                  <pb n="21" facs="tcp:109747:11"/> 19, 1676. The Government of the Country of <hi>Drenthe</hi> is conferred on the Prince and his Heirs for ever.</p>
+               <p n="20">20, 1672. He comes from his Camp at <hi>Bodegrave</hi> to the <hi>Hague,</hi> and there takes the uſual Oaths of Statholder; after which he takes place in the ſeveral Colleges, as his princely Predeceſſors had hitherto done.</p>
+               <p n="21">21, 1672. Being loath to lay new Taxes on the People, he obtains 2000000 Florins from the <hi>Eaſt-India</hi> Company, to carry on the War.</p>
+               <p n="22">22, 1672. The States General recal their Plenipotentiaries, having empower'd his R. H. to make either Peace or War as himſelf ſhould think fit.</p>
+               <p n="23">23, 1691. His Majeſty's Forces gain the Battle of <hi>Agrim,</hi> wherein the <hi>Iriſh</hi> loſt 7000 Men, almoſt all their General, and above half their Inferior Officers, beſides all their Co<g ref="char:EOLhyphen"/>lours and Baggage and 400 Priſoners.</p>
+               <p n="24">24, 1672. The Prince refuſes to give his Opinion as to the Propoſals made by the K. of <hi>England</hi> and the <hi>French</hi> King, becauſe of <hi>Grotius</hi>'s being preſent, who was thereupon pre<g ref="char:EOLhyphen"/>ſently turned out.</p>
+               <p n="25">25, 1672. The Great Bayly <hi>Putten,</hi> Brother to Penſioner <hi>de Witt,</hi> is ſeized and ſent Priſoner to the <hi>Hague,</hi> being charged with having endeavoured to induce a Chirurgeon to aſſaſſinate the Prince of <hi>Orange,</hi> by promiſing him 20000 Livers when he ſhould have put it in Execution.</p>
+               <p n="26">26, 1672. The Prince goes with a Detachment from his Army for <hi>Gorcom,</hi> and being returned into his Camp, finds there that a Sedition is raiſed by <hi>Mombas,</hi> the Governours of <hi>Weſel</hi> and <hi>Rimberg,</hi> and ſome other Officers; ſome of which he cauſes to be puniſhed as Traitors.</p>
+               <p n="26">26, 1690. His Majeſty makes his Entry into <hi>Dublin,</hi> thro' the redoubled Acclamations of all the Inhabitants.</p>
+               <p n="27">27, 1690. He is graciouſly pleaſed to pardon a Man who had attempted on his ſacred perſon, as he entred into <hi>Dublin.</hi>
+               </p>
+               <p n="28">28, 1689. A great Conſpiracy is diſcovered in <hi>Scotland.</hi>
+               </p>
+               <p n="29">29, 1672. Mr. <hi>Boſcowen</hi> returns from <hi>London</hi> to the <hi>Hague,</hi> with Letters of Congratulation from the King of <hi>England</hi> to the Prince of <hi>Orange,</hi> occaſioned by the Honours which the States had paid his Royal Highneſs.</p>
+               <p n="30">
+                  <pb n="22" facs="tcp:109747:12"/> 30, 1672. The States General give the Prince a full power to Negociate a Peace with <hi>France.</hi>
+               </p>
+               <p n="31">31.</p>
+            </div>
+            <div type="month">
+               <head>Auguſt.</head>
+               <p n="1">1, 1672. His R. H. on his Return to the <hi>Hague</hi> from his Progreſs towards <hi>Breda, S. Gertrundenberg</hi> and ſome other places which he had viſited, is complemented by the Embaſ<g ref="char:EOLhyphen"/>ſadors from the Emperor and Kings of <hi>Spain</hi> and <hi>Denmark.</hi>
+               </p>
+               <p n="2">2, 1680. He takes Ship for <hi>England.</hi>
+               </p>
+               <p n="3">3, 1691. The King having attacked the <hi>French</hi> Army under the Mareſchal <hi>de Luxembourg,</hi> the Engagement was hot and laſted ſeveral Hours; during which the Allies loſt General <hi>Mackey</hi> and about 5 or 6000 Men, while on the <hi>French</hi> ſide 113 Officers were ſlain and 500 wounded, and 7000 Soldi<g ref="char:EOLhyphen"/>ers dyed on the Spot.</p>
+               <p n="4">4, 1691. <hi>Galway</hi> is ſurrendred to his Majeſty's victorious Army in <hi>Ireland,</hi> and the Garriſon is conducted to <hi>Lymerick;</hi> which is now the only place in the Weſt of <hi>Ireland</hi> that does not acknowledge his Majeſty for their Sovereign.</p>
+               <p n="5">5, 1690. The King took <hi>Waterford,</hi> tho' defended by 25 big Cannons, and a ſtrong Garriſon, who had yet 300 Buſh<g ref="char:EOLhyphen"/>els of Wheat to ſubſiſt on.</p>
+               <p n="6">6, 1688. His Catholick Majeſty allows the Prince of <hi>Orange</hi> a Penſion of 100000 Florins <hi>per annum,</hi> on the Reve<g ref="char:EOLhyphen"/>nues of the <hi>Spaniſh Netherlands,</hi> on the account of ſeveral Sums due to him from that Crown.</p>
+               <p n="7">7, 1670. His Royal Highneſs goes for <hi>Dieren.</hi>
+               </p>
+               <p n="8">8, 1675. He beſieges <hi>Charleroy.</hi> 9.</p>
+               <p n="10">10, 1660. The Princeſs Dowager of <hi>Orange</hi> gives the States an account of his Royal Highneſs her Son's being gone for <hi>England,</hi> and makes an offer of his Mediation be<g ref="char:EOLhyphen"/>tween the King her Brother and them.</p>
+               <p n="11">11, 1674. The Prince fought the bloody Battle of <hi>Senef,</hi> and tho' he was not yet full 24 Years old, yet he behaved himſelf with all the Prudence and Conduct that might have been expected from an old experienced General, as well as
+<pb n="23" facs="tcp:109747:12"/>with all the Bravery that a young Prince could expreſs.</p>
+               <p n="12">12, 1667. He takes his Place in the Council of Sate, as firſt Nobleman of the Country.</p>
+               <p n="13">13, 1692. The Chevalier <hi>Grandval</hi> is executed for a bar<g ref="char:EOLhyphen"/>barous Conſpiracy againſt the King's Life.</p>
+               <p n="14">14, 1678. The Prince attacked the <hi>French</hi> under the Walls of <hi>Mons,</hi> having no notice as yet of the Peace that was agreed on, and ſigned the 10th of that month. 15.</p>
+               <p n="16">16. An Act is paſſed in Parliament for ſettling the Succeſſion, whereby the Duke of <hi>Hannover</hi> is declared next Heir to the Crown, after the Princeſs of <hi>Denmark</hi> and her Children. 17.</p>
+               <p n="18">18, 1691. The Queen iſſues her Royal Proclamation for the more reverend obſerving of the Sabbath-day, and againſt prophane Curſing and Swearing.</p>
+               <p n="19">19, 1690. The King ventures within Cannon-ſhot of <hi>Ly<g ref="char:EOLhyphen"/>merick,</hi> to take a Survey of that place.</p>
+               <p n="20">20, 1672. The Grand Bayly <hi>van Putten</hi> is removed from all his Places, for his Attempt on the Prince of <hi>Orange.</hi> 21.</p>
+               <p n="22">22, 1672. The <hi>Witts</hi> are murthered at the <hi>Hague</hi> by the Mob, which looked upon them as Enemies to their Country, and to the Prince.</p>
+               <p n="23">23, 1672. His Royal Highneſs does make a ſtrict En<g ref="char:EOLhyphen"/>quiry into the <hi>Witt</hi>'s Death; and tho' they were his Ene<g ref="char:EOLhyphen"/>mies, yet generouſly reſolves to revenge that Murther on its Authors.</p>
+               <p n="24">24, 1672. His Royal Highneſs drives the French back to the very Gates of <hi>
+                     <g ref="char:V">Ʋ</g>trecht.</hi>
+               </p>
+               <p n="25">25, 1672. He goes to <hi>Amſterdam,</hi> the Inhabitants where<g ref="char:EOLhyphen"/>of earneſtly beg he would give them a Governor; to which he anſwered, that himſelf was their Governor, but he would give them a Commander. 26. 27. 28.</p>
+               <p n="29">29, 1672. The Prince having been honourably received at <hi>Amſterdam,</hi> gives convincing proofs of his great Prudence, in that the Keys of the City being preſented to him, he re<g ref="char:EOLhyphen"/>fuſed them, and ſent them to the Captain of the Guard.</p>
+               <p n="30">30, 1672. His Highneſs keeps off the French Succours from coming near <hi>Woerden.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <pb n="24" facs="tcp:109747:13"/>
+               <head>September.</head>
+               <p n="1">1, 1672. Having feigned to attack <hi>Narden,</hi> his Royal Highneſs falls on <hi>Woerden.</hi> 2. 3.</p>
+               <p n="4">4, 1672. Beſieges <hi>Naerden.</hi>
+               </p>
+               <p n="5">5, 1672. The States empower the Prince to remove all the Magiſtrates of the <hi>Hague,</hi> and put others in their Places.</p>
+               <p n="6">6, 1672. The Siege of <hi>Woerden</hi> proves the death of ſe<g ref="char:EOLhyphen"/>veral French Officers, and above 200 Soldiers.</p>
+               <p n="7">7, 1672. His Royal Highneſs goes from <hi>Loo</hi> towards the Frontiers of <hi>Germany,</hi> to confer with ſeveral Electors and Princes of the Empire.</p>
+               <p n="8">8, 1688. The Marquiſs of <hi>Albeville,</hi> Embaſſador from King <hi>James</hi> II. preſented a Memoir to the States General, deſiring to know their Deſign in fitting out ſo great a Fleet.</p>
+               <p n="9">9, 1688. Monſieur <hi>d' Avaux,</hi> Embaſſador from the French King, does likewiſe declare to the States General, that if their Navy were deſigned againſt the King of <hi>England,</hi> as it was likely, the French King his Maſter would aſſiſt him to his utmoſt, as being his Friend and Ally.</p>
+               <p n="10">10, 1691. The King preſents the Prince of <hi>Vaudemont</hi> with 40000 Florins, and a Palace in <hi>Bruſſels</hi> richly furniſhed.</p>
+               <p n="11">11, 1653. On the Princeſs Dowager's arrival at the <hi>Hague</hi> with the young Prince, the Inhabitants of the place deſire the Magiſtracy to give them the Arms and Colours be<g ref="char:EOLhyphen"/>longing to the Princes of <hi>Orange,</hi> and threaten that elſe they will take them by force.</p>
+               <p n="12">12, 1682. The States General ſend an Embaſſy to the French King, requiring him to draw his Troops from the City of <hi>Orange,</hi> and to cauſe the Inhabitants to be recom<g ref="char:EOLhyphen"/>penced for all the Damages they had ſuſtained by his Soldiers quartering there.</p>
+               <p n="13">13, 1673. The Prince does, to his great Glory, take the Fortreſs of <hi>Naerden.</hi>
+               </p>
+               <p n="14">14, 1674. Notwithſtanding the Fatigue his Army had un<g ref="char:EOLhyphen"/>dergone in the Battle of <hi>Senef,</hi> he beſieges <hi>Oudenarden.</hi>
+               </p>
+               <p n="15">
+                  <pb n="25" facs="tcp:109747:13"/> 15, 1690. The King having reduced almoſt all <hi>Ireland</hi> to his Obedience, takes Ship at <hi>Doncanon</hi> for <hi>England.</hi>
+               </p>
+               <p n="16">16, 1673. The Emperor firſt uſes the Stile of ROYAL HIGHNESS in his Letters to the Prince of <hi>Orange.</hi>
+               </p>
+               <p n="17">17, 1691. His Majeſty having made fruitleſs Endeavors to oblige the French to fight him, blows up the Fortifications of <hi>Beaumont</hi> before the Duke of <hi>Luxemburgh</hi>'s Face; and then leaves his Camp to divert himſelf at <hi>Loo.</hi>
+               </p>
+               <p n="18">18, 1691. The Mareſchal <hi>de Luxemburg,</hi> who had ſo carefully avoided the Fight while the King was with the Army, no ſooner hears that he is gone, but he falls on our Rear with all his Horſe, but is ſo vigorouſly repulſed by the Prince <hi>de Waldeck,</hi> that he loſes many of his Men, and comes ſhort of his Deſign.</p>
+               <p n="19">19, 1691. The King arrives at <hi>Breda,</hi> and thence goes to <hi>Loo.</hi>
+               </p>
+               <p n="20">20, 1688. The Prince of <hi>Orange</hi> went to <hi>Minden</hi> to con<g ref="char:EOLhyphen"/>fer with the Elector of <hi>Brandenburg,</hi> the Princes of the Houſe of <hi>Brunſwick,</hi> the Landtgrave of <hi>Heſſe,</hi> the Biſhop of <hi>Munſter,</hi> and ſeveral other Princes; and thence went Poſt to <hi>Anemberg,</hi> to meet there with the Elector of <hi>Saxony.</hi>
+               </p>
+               <p n="21">21. Minheer <hi>Fagel</hi> and ſome other Perſons are deputed, by the States, to compliment the Prince on the taking of <hi>Naerden.</hi>
+               </p>
+               <p n="22">22, 1690. The King returns to <hi>London</hi> from the Campaign in <hi>Ireland,</hi> and is receiv'd there with all poſſible Expreſſions of Joy, for the great Victories he had gained in <hi>Ireland.</hi>
+               </p>
+               <p n="23">23, 1688. He returned to the <hi>Hague</hi> from his Progreſs in<g ref="char:EOLhyphen"/>to <hi>Germany,</hi> and began to get his Forces together.</p>
+               <p n="24">24, 1690. The Parliament in <hi>Scotland</hi> confirm the Oath of Allegiance, which all the Inhabitants of the Kingdom, eſpecially thoſe in Places of Truſt, were to take.</p>
+               <p n="25">25, 1668. The Prince is made Head of all the Nobility of <hi>Zealand,</hi> and Preſident of the States of that Province, at <hi>Middleburgh.</hi>
+               </p>
+               <p n="26">26, 1672. The States General do, by an Edict, impower his Royal Highneſs to pardon as many Criminals as he ſhould think fit.</p>
+               <p n="26">26, 1691. The King's Army in <hi>Ireland</hi> takes the City of <hi>Slego.</hi>
+               </p>
+               <p n="27">27, 1672. The States General raiſe a Company of Gen<g ref="char:EOLhyphen"/>tlemen to guard the Prince of <hi>Orange</hi>'s Perſon.</p>
+               <p n="28">
+                  <pb n="26" facs="tcp:109747:14"/> 28, 1672. His R.H. abhors the Propoſals that ſome made him, of Murthering the two Kings which were his Enemies.</p>
+               <p n="29">29, 1683. He proffers Himſelf and the Aſſiſtance of the States General to the King of <hi>England,</hi> againſt the Duke of <hi>Monmouth</hi> who was landed in <hi>Scotland,</hi> and had raiſed a Re<g ref="char:EOLhyphen"/>bellion in almoſt that whole Kingdom.</p>
+               <p n="30">30, 1673. He ſtorms <hi>Rhimback.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <head>October.</head>
+               <p n="1">1, 1660. The States reſolve that the young Prince of <hi>Orange</hi> ſhall reſide at the <hi>Hague,</hi> there to be bred up and educated; and to that effect allow him an Yearly Penſion of 20000 Florins. They alſo agree, that as ſoon as he ſhould be 16 Years old, he ſhould be admitted into the Council of State, and that at the Age of 18 he ſhould poſſeſs all the Offices that were formerly enjoyed by his Predeceſſors.</p>
+               <p n="2">2, 1673. The Prince received a Letter from the Queen of <hi>Spain,</hi> wherein he is ſtiled Royal Highneſs, and proffer'd to be made a Knight of the Golden Fleece. 3. 4. 5.</p>
+               <p n="6">6, 1660. Her R. H. Mother to the young Prince, names 6 Perſons, recommendable by their great Quality and emi<g ref="char:EOLhyphen"/>nent Vertue, to take care of his Princely Education.</p>
+               <p n="7">7, 1688. The P. of <hi>Orange</hi>'s Army lying on our Coaſts, gives a terrible Allarm to King <hi>James</hi> and his Adherents.</p>
+               <p n="8">8, 1691. The City of <hi>Limerick,</hi> though defended by a Garriſon of about 6000 choſen Men, was forced to ſurrender on ſuch Conditions as General <hi>Ginkle</hi> was pleaſed to grant.</p>
+               <p n="9">9, 1674. The Prince came to the Siege of <hi>Grave</hi> with 2000 Horſe.</p>
+               <p n="10">10, 1691. His Majeſty left <hi>Loo,</hi> and on the 13th came to the <hi>Hague,</hi> where he was preſent at the Council of State; and having intreated the States that they would encreaſe their Fleet and haſten their Preparations againſt the next Cam<g ref="char:EOLhyphen"/>paign, and diſpoſed of ſeveral vacant Places in the <hi>Nether<g ref="char:EOLhyphen"/>lands,</hi> he ſet out the 28th for <hi>England.</hi>
+               </p>
+               <p n="11">11, 1677. The Prince went into <hi>England,</hi> accompanied by a great number of Perſons of Quality, having been ſent
+<pb n="27" facs="tcp:109747:14"/>for by the King of <hi>England</hi> his Uncle, who was willing to treat with him concerning ſome Affairs of great concern.</p>
+               <p n="12">12, 1690. His Majeſty goes to the Parliament in his Robes, and makes a moſt gracious Speech to both Houſes, giving them an account of his proſperous Campaign.</p>
+               <p n="13">13, 1691. This Day the Garriſon of <hi>Limerick</hi> quitted that Place, under the Conditions which had been granted them, and deliver'd up the Gates and Fortifications of that impor<g ref="char:EOLhyphen"/>tant City to the Troops of his Majeſty, who by the taking thereof ſaw the Rebellion quite extirpated in <hi>Ireland.</hi>
+               </p>
+               <p n="14">14, 1678. The States General empower (for that time only) the Prince of <hi>Orange,</hi> to put whom he pleaſed into the Magiſtracy of the City of <hi>Maeſtricht.</hi>
+               </p>
+               <p n="15">15, 1692. K. <hi>William</hi> III. is owned as true, lawful and rightful King of <hi>Ireland,</hi> by the Parliament of that Kingdom.</p>
+               <p n="16">16, 1690. The Houſe of Lords return their Thanks to his Majeſty, for his prudent Adminiſtration of the Government, and for having ventured his ſacred Perſon for the Advan<g ref="char:EOLhyphen"/>tage and Honour of the Engliſh Nation.</p>
+               <p n="17">17, 1672. In a Council of War held by his Royal High<g ref="char:EOLhyphen"/>neſs at <hi>Tergan,</hi> at which Admiral <hi>Ruiter</hi> was preſent, it is agreed to attack the French on the <hi>Maeſe.</hi>
+               </p>
+               <p n="18">18, 1690. The Houſe of Commons do likewiſe addreſs his Majeſty to return their Thanks for his favourable Pro<g ref="char:EOLhyphen"/>tection, and to deſire him not to expoſe his ſacred Perſon, as he had hitherto done.</p>
+               <p n="19">19, 1690. The Parliament return their Thanks to her Majeſty, for her wiſe management of Affairs during the King's abſence in <hi>Ireland.</hi>
+               </p>
+               <p n="20">20, 1690. The Houſe of Commons grant a Subſidy of 4 millions of Pounds <hi>Sterling,</hi> to carry on the War againſt <hi>France.</hi>
+               </p>
+               <p n="21">21, 1692. The King received a Letter from the Emperor of the Turks, congratulating his happy Acceſſion to the Crown of <hi>England,</hi> and deſiring his Mediation between him and the Emperor of <hi>Germany.</hi>
+               </p>
+               <p n="22">22, 1677. The Prince beſieges <hi>Tongres</hi> in hopes of en<g ref="char:EOLhyphen"/>gaging the Mareſchal <hi>de Duras,</hi> who was ſtrongly entrenched near that place.</p>
+               <p n="23">
+                  <pb n="28" facs="tcp:109747:15"/> 23, 1673. He beſieged the Caſtle of <hi>Walkembourg,</hi> which after a weak Reſiſtance ſurrendred on Diſcretion: And the ſame Day he gave the Government of <hi>Breda</hi> to the Count <hi>Charles de Rhingrave.</hi>
+               </p>
+               <p n="24">24, 1668. The Princeſs of <hi>Orange</hi> ſends a Letter to the States, to acquaint them that the Prince, her Son, being now full 18 Years old, ſhe would be his Tutrix no longer, but deſigned to give them, as being his Guardians, an ac<g ref="char:EOLhyphen"/>count of the manner wherein ſhe had diſcharged her Truſt, and ſhe deſired them to take him into their Protection.</p>
+               <p n="25">25, 1690. General <hi>Tetau</hi> took the City of <hi>Cork.</hi>
+               </p>
+               <p n="26">26, 1672. The Prince does at laſt, oblige the City of <hi>Graves,</hi> after a long and vigorous Reſiſtance, to capitulate, tho there were in the place 450 Canons, and a Garriſon of 4000 choſen Men, under the Command of the Marquiſs <hi>de Chamilly,</hi> one of the braveſt and moſt couragious Captains the French King has ever owned.</p>
+               <p n="27">27, 1672. He takes <hi>Binch,</hi> after which he goes into <hi>Bra<g ref="char:EOLhyphen"/>bant</hi> to diſpoſe of his Army into Winter-quarters there.</p>
+               <p n="27">27, 1673. The Prince enter'd into <hi>Grave,</hi> where he found above 2000 of the beſieged killed and wounded, and where he is joyfully received by the Inhabitants, who ſtiled him their Protector and the Reſtorer of their Liberty.</p>
+               <p n="28">28, 1670. He goes for <hi>London</hi> with a Princely Attendance.</p>
+               <p n="30">30, 1688. The Prince of <hi>Orange</hi> imbarked at <hi>Helvoet<g ref="char:EOLhyphen"/>ſluys</hi> with the Mareſchal <hi>de Shomberg,</hi> his Fleet conſiſting in 65 Men of War, 10 Fire-ſhips and 500 Tranſport-ſhips, on which were ſhipped about 16000 Horſe and Foot: but a great Storm ſuddenly aroſe, which obliged him to put back into <hi>Helvoet-ſluys.</hi>
+               </p>
+               <p n="31">31, 1689. The Parliament grants him 1200000 <hi>l.</hi> more, to carry on the War in <hi>Ireland.</hi>
+               </p>
+            </div>
+            <div type="month">
+               <pb n="29" facs="tcp:109747:15"/>
+               <head>November.</head>
+               <p n="1">1, 1691. The Parliament being met at <hi>Weſtminſter,</hi> grants his Majeſty a ſufficient Sum of Mony for the raiſing an Ar<g ref="char:EOLhyphen"/>my of 65000 Men for the ſafety of the Kingdom. 2, 3,</p>
+               <p n="4">4, 1682. The Chamber of <hi>Metz</hi> declares the Prince has no Title to the Principality of <hi>Orange</hi> and 14 other Fiefs of that Sovereignty, and veſts them in the Abbot of <hi>Orleance,</hi> Son to the late Duke of <hi>Longueville,</hi> who laid claim to them as Heir to the Family of <hi>Chalons,</hi> to whom the Principality did once belong; after which the Prince of <hi>Conde</hi> his Unkle takes poſſeſſion of them as being his Guardian.</p>
+               <p n="5">5, 1677. The States General approved of his Marriage with the Princeſs <hi>Mary,</hi> Daugher to the Duke of <hi>York.</hi>
+               </p>
+               <p n="6">6, 1677. They acquaint King <hi>Charles</hi> therewith.</p>
+               <p n="7">7, 1677. The News of this Match being ſpread in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> fills the City with Joy; and this gives occaſions of a per<g ref="char:EOLhyphen"/>petual Alliance between the <hi>Engliſh</hi> and <hi>Dutch.</hi>
+               </p>
+               <p n="8">8, 1689. The King grants an Exemption from paying any Duties or Cuſtoms to ſuch as ſhall tranſport any Proviſions into the <hi>Iriſh</hi> Sea-Port Towns under his obedience.</p>
+               <p n="9">9, 1682. The States General ſend an Embaſſy to the <hi>French</hi> King, to repreſent the Wrong that had been done to the Prince of <hi>Orange</hi> and his Subjects, and to deſire him to reſtore the ſaid Prince to his Dominions, and cauſe reſtitu<g ref="char:EOLhyphen"/>tion to be made of the Loſſes that the Inhabitants of the Ci<g ref="char:EOLhyphen"/>ty of <hi>Orange</hi> had ſuſtained from the <hi>French</hi> Soldiers.</p>
+               <p n="10">10, 1689. A Helliſh Conſpiracy is diſcover'd in the Army commanded by the Duke of <hi>Schomberg.</hi>
+               </p>
+               <p n="11">11, 1688. This day the Prince of <hi>Orange</hi> departed from <hi>Helvoet-ſluys,</hi> in the ſame Order and with the ſame Fleet as he had done the 10th of <hi>October,</hi> and, after ſome days ſail<g ref="char:EOLhyphen"/>ing, happily arrives at <hi>Torbay.</hi>
+               </p>
+               <p n="12">12, 1690. The King gives a Publick Audience to Mon<g ref="char:EOLhyphen"/>ſieur <hi>de la Tour,</hi> who was come with the Character of Envoy Extraordinary from the Duke of <hi>Savoy,</hi> to congratulate his Majeſty's happy Acceſſion to the Throne.</p>
+               <p n="13">
+                  <pb n="30" facs="tcp:109747:16"/> 13, 1673. In Memory of the City of <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi>'s being deli<g ref="char:EOLhyphen"/>ver'd from the <hi>French,</hi> a Medal is ſtruck in <hi>Holland,</hi> where<g ref="char:EOLhyphen"/>on is ſeen a Phenix on a Globe between two <hi>Cornu copia's,</hi> with this Motto: <hi>Reſtauratio Saeculi.</hi> And in the Reverſe theſe words, <hi>Dei O. M. munere, virtute ac conſilio Principis Arauſiaci, Trajectus ad Rhenum post XVII Menſium captivi<g ref="char:EOLhyphen"/>tatem tentata XIII Nov.</hi> 1673.</p>
+               <p n="14">14, 1650. His R. H.'s Birth-day, who came into the World Eight days after the Death of his Father, <hi>William</hi> the II. Prince of <hi>Orage,</hi> deſcended from the Imperial Family of <hi>Naſſau;</hi> and <hi>Mary Stuart,</hi> Daughter to <hi>Charles</hi> the I. and Siſter to <hi>Charles</hi> and <hi>James</hi> II. Kings of <hi>England,</hi> &amp;c.</p>
+               <p n="14">14, 1689. His Majeſty's Birth-day is celebrated with all poſſible Demonſtrations of Joy.</p>
+               <p n="15">15, 1688. The Prince lands at <hi>Torbay</hi> without oppoſition.</p>
+               <p n="16">16, 1688. He comes to <hi>Exeter,</hi> where he is triumphantly received by the Inhabitants of that City.</p>
+               <p n="17">17, 1673. He took the Caſtle of <hi>Breuil.</hi>
+               </p>
+               <p n="18">18, 1688. As his Royal Highneſs comes towards <hi>London</hi> his Army increaſes by the <hi>Engliſh</hi> Gentry's flocking to him from all Parts, and Deputies attending him from ſeveral Ci<g ref="char:EOLhyphen"/>ties and Boroughs, to welcome him to <hi>England.</hi>
+               </p>
+               <p n="19">19, 1673. The Prince took <hi>Lechnick.</hi>
+               </p>
+               <p n="20">20, 1673. He forced the <hi>French</hi> to abandon <hi>Woerden.</hi>
+               </p>
+               <p n="21">21, 1673. They alſo quit <hi>Hardewick Creveceur</hi> and <hi>Bommel.</hi>
+               </p>
+               <p n="22">22, 1673. His R. H. does alſo force the <hi>French</hi> from <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>trecht,</hi> tho' they kept a Garriſon of 7000 Men in the City.</p>
+               <p n="23">23, 1690. The Parliament, as a farther inſtance of their Zeal for his Majeſty, grant him 770000 <hi>l.</hi> for the Building of 30 Men of War.</p>
+               <p n="24">24, 1677. This day was celebrated the Prince of <hi>Orange</hi>'s Marriage with the Royal Princeſs <hi>Mary Stuart;</hi> and his Royal Highneſs was made Duke of <hi>Gloſter,</hi> and a Member of the King of <hi>England</hi>'s Privy Council.</p>
+               <p n="25">25, 1660. The Prince being now 16 Years old, is com<g ref="char:EOLhyphen"/>plemented on that occaſion by ſeveral Perſons of Quality. And the States, who had a Horſe-Guard in his Palace, cauſe them to withdraw, that he may have it wholly at his diſpoſal.</p>
+               <p n="26">
+                  <pb n="31" facs="tcp:109747:16"/> 26, 1682. A Decree is made in <hi>France,</hi> whereby the Ma<g ref="char:EOLhyphen"/>giſtracy and Inhabitants of the City of <hi>Orange</hi> are forbid<g ref="char:EOLhyphen"/>den, any more to acknowledge his Royal Highneſs for their Sovereign. 27, 28, 29, 30.</p>
+            </div>
+            <div type="month">
+               <head>December.</head>
+               <p n="1">1, 1673. A Medal is ſeen in <hi>Holland,</hi> having on one ſide the Prince of <hi>Orange,</hi> holding a Sword in his Right-hand, and the Arms of <hi>
+                     <g ref="char:V">Ʋ</g>trecht</hi> in his Left, with this Inſcription, <hi>Moneta Argentea pro Confectore Belli Trajactenſis;</hi> and on the other the Arms of the States General, with this Motto, <hi>Con<g ref="char:EOLhyphen"/>cordia res parvae creſcunt.</hi> 2, 3, 4,</p>
+               <p n="5">5, 1676. He went to <hi>Zeeland</hi> to honour the Aſſembly of the States of that Province with his preſence. 6, 7,</p>
+               <p n="8">8, 1673. He returns glorious to the <hi>Hague,</hi> where he is received with Honour, Joy and Reſpect.</p>
+               <p n="9">9, 1677. He arrives <hi>incognito</hi> at the <hi>Hague</hi> with the Royal Princeſs his Conſort. 10, 11,</p>
+               <p n="12">12, 1676. His Royal Highneſs returns from <hi>Zealand</hi> to the <hi>Hague,</hi> through ſeveral Dangers at Sea, by reaſon of the Ice. 13,</p>
+               <p n="14">14, 1677. He makes a moſt ſplendid Entry into the <hi>Hague</hi> with his Princeſs, through an infinite crowd of Peo<g ref="char:EOLhyphen"/>ple, who had flocked thither from all Parts to expreſs the ſhare they took in his happineſs.</p>
+               <p n="15">15, 1663. The Prince uſes repeated Inſtances with the States, that they would ſeize on the Eſtates and Effects of the <hi>Spaniards,</hi> to oblige them to pay what was due to his Houſe, by obligation, from the King of <hi>Spain,</hi> on condition they would procure him a Peace with <hi>Holland,</hi> which had been done. 16,</p>
+               <p n="17">17, 1690. His Majeſty is royally entertained by the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> who ſpent a vaſt Sum of Mony on that occaſion.</p>
+               <p n="18">18, 1677. The Prince thanks the States for the Conſent they had given to his Marriage, and gives them an Account of his Negotiations in <hi>England;</hi> then goes to the Council of State, where the Preparations for the next Campaign are debated.</p>
+               <p n="19">
+                  <pb n="32" facs="tcp:109747:17" rendition="simple:additions"/> 19, 1675. This day the Princeſs of <hi>Orange,</hi> his Mother, was buried with the utmoſt Pomp; having left him the Ba<g ref="char:EOLhyphen"/>ronies of <hi>Tornaut</hi> and <hi>Zouvenbrug,</hi> beſides above 150000 Florins-worth of Jewels, and a Diamond of an extraordi<g ref="char:EOLhyphen"/>nary value.</p>
+               <p n="20">20, 1690. A Conſpiracy is diſcover'd in <hi>London,</hi> wherein ſome Perſons of great quality were concerned.</p>
+               <p n="21">21, 1688. The late King <hi>James</hi> being fled from <hi>London,</hi> the Lords Eccleſiaſtical and Temporal flock from all Parts to the Prince of <hi>Orange,</hi> to be ready to form a Convention.</p>
+               <p n="22">22, 23,</p>
+               <p n="24">24, 1688. King <hi>James,</hi> ſeeing the whole Nation ſided with the Prince of <hi>Orange,</hi> and that his Royal Highneſs's Army increaſed daily, diſguiſes himſelf and goes on board a Veſſel bound for <hi>France,</hi> but being forced back on the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Coaſt, near <hi>Feverſham,</hi> he is ſeized by ſome Country<g ref="char:EOLhyphen"/>men, who miſtook him for a Jeſuit.</p>
+               <p n="25">25, 1688. His Royal Highneſs invites K. <hi>James</hi> to <hi>London.</hi>
+               </p>
+               <p n="26">26, 1688. King <hi>James</hi> returns thither, where he exerciſes for a ſhort while a Regal Authority.</p>
+               <p n="27">27, 1688. King <hi>James</hi> leaves <hi>London</hi> and goes to <hi>Roche<g ref="char:EOLhyphen"/>ſter,</hi> and thence to <hi>France,</hi> whereby he abdicates his Kingdom.</p>
+               <p n="28">28, 1671. This day the States General agreed on the fol<g ref="char:EOLhyphen"/>lowing Reſolutions, <hi>viz.</hi> That they would raiſe 20000 Land<g ref="char:EOLhyphen"/>men and 10000 Mariners, to increaſe their Sea and Land Armies. That they would build ſeveral great Barks to ſerve on the <hi>Rhine,</hi> to hinder the <hi>French</hi> from frequently paſſing that River. That they would fit out a Fleet of 48 Men of War, 24 Frigats, and 24 Fireſhips. And to add 20000 Florins <hi>per Annum</hi> to the Prince of <hi>Orange</hi>'s Penſion.</p>
+               <p n="29">29,</p>
+               <p n="30">30,</p>
+               <p n="31">31.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
